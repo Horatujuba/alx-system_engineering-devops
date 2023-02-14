@@ -1,2 +1,2 @@
 #!/ban/bash
-echo $((POWER/DIVIDER))
+echo $((POWER/DIVIDE))
