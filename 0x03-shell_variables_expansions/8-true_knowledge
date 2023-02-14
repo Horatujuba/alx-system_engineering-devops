@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((128 + $trustknowledge))
+echo $((128 + $TRUSTKNOWLEDGE))
